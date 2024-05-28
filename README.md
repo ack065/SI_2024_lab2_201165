@@ -4,6 +4,8 @@ Aleksandar Lavurovski 201165
 Controll Flow Graph:
 
 ![SILab2_CFG](https://github.com/ack065/SI_2024_lab2_201165/assets/166759494/ce2aa957-aa7e-4df7-8d36-f6b36da5ef98)
+![SILab2_CFG_Fix](https://github.com/ack065/SI_2024_lab2_201165/assets/166759494/5030d8c5-31e0-4021-9c9d-ef9cd5a470ed)
+
 
 ----
 
